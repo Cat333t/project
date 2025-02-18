@@ -35,6 +35,7 @@ header {
 
 .bio {
     width: 60%;
+    transform: translateX(-1000px);
 }
 
 
